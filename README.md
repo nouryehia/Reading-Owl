@@ -2,7 +2,7 @@
 
 ## Site
 
-You can access the *Reading Owl* site by clicking [here](https://www.reading-owl.com).
+You can access the *Reading Owl* site by clicking [here](https://www.reading-owl.com). To explore all of its feature, I recommend you sign up :)
 
 ## Disclaimer
 
